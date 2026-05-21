@@ -1,0 +1,17 @@
+# MATLAB/Simulink generated files
+slprj/
+codegen/
+*.slxc
+*.asv
+*.autosave
+*.mdl.r*
+*.slx.r*
+
+# Office temporary files
+~$*
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
